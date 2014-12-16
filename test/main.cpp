@@ -2,6 +2,8 @@
 
 using namespace std;
 
+int subtraction(int a, int b);
+
 int main()
 {
 <<<<<<< HEAD
@@ -12,4 +14,13 @@ int main()
 
 >>>>>>> 34f2404d8eef36f3f478841b7c944fe77faa9ae1
     return 0;
+}
+
+int subtraction(int a, int b)
+{
+    int result =0;
+
+    result = a - b;
+
+    return (result);
 }
