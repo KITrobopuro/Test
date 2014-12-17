@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdio.h>
 
 using namespace std;
 
@@ -26,7 +27,12 @@ int subtraction(int a, int b)
     return (result);
 }
 
+<<<<<<< HEAD
 int unagi(char unagi){
 	if (unagi == 'u') return 1;
 	else 0;
+=======
+void source_tree_test(void){
+	printf("test_dayo!\n\r");
+>>>>>>> b25d6b19d80ec49d17a5952a520c4bc219425adc
 }
