@@ -5,6 +5,7 @@ using namespace std;
 
 int subtraction(int a, int b);
 int unagi(char unagi);
+void usagi();
 
 int main()
 {
@@ -35,4 +36,8 @@ int unagi(char unagi){
 void source_tree_test(void){
 	printf("test_dayo!\n\r");
 >>>>>>> b25d6b19d80ec49d17a5952a520c4bc219425adc
+}
+
+void usagi(){
+    printf("USAGI!!");
 }
