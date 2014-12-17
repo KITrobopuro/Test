@@ -23,7 +23,7 @@ int main()
             printf(" ");
         }
         for(int y=1; y<=2*i-1; y++){
-            printf("A");
+            printf("K");
         }
         printf("\n");
     }
