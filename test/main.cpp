@@ -13,6 +13,7 @@ int main()
     cout << "KITrobocon!\n" << endl;
 
 	>> >> >> > 34f2404d8eef36f3f478841b7c944fe77faa9ae1
+<<<<<<< HEAD
 
 		cout << "unagi!\n" << endl;
 
@@ -28,6 +29,8 @@ int main()
         printf("\n");
     }
 
+=======
+>>>>>>> 0d21a92b03d189d0a7de41dddc37b34909062707
     return 0;
 }
 
