@@ -3,6 +3,7 @@
 using namespace std;
 
 int subtraction(int a, int b);
+int unagi(char unagi);
 
 int main()
 {
@@ -23,4 +24,9 @@ int subtraction(int a, int b)
     result = a - b;
 
     return (result);
+}
+
+int unagi(char unagi){
+	if (unagi == 'u') return 1;
+	else 0;
 }
