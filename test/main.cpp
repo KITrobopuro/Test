@@ -7,7 +7,7 @@ int subtraction(int a, int b);
 int main()
 {
 <<<<<<< HEAD
-    cout << "Hello world!!!\n" << endl;
+    cout << "Hello world!!!!!\n" << endl;
 =======
     cout << "Hello world!\n" << endl;
     cout << "KITrobocon!\n" << endl;
