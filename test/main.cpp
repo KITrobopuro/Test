@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdio.h>
 
 using namespace std;
 
@@ -23,4 +24,8 @@ int subtraction(int a, int b)
     result = a - b;
 
     return (result);
+}
+
+void source_tree_test(void){
+	printf("test_dayo!\n\r");
 }
