@@ -8,6 +8,7 @@ int unagi(char unagi);
 
 int main()
 {
+	printf("hello");
 <<<<<<< HEAD
     cout << "Hello world!!!!!\n" << endl;
 =======
