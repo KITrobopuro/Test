@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 inabayuki
 atsu
+=======
+inabayui
+kanai
+???('ƒÖ')???¶Ï·Ø
+>>>>>>> d71a964841d5ad9ed9d4976d7ac03ead75392b14
