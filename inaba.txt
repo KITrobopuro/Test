@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+inabayuki
+atsu
+=======
 inabayui
 kanai
 ???('ƒÖ')???¶Ï·Ø
+<<<<<<< HEAD
 uchida
+=======
+>>>>>>> d71a964841d5ad9ed9d4976d7ac03ead75392b14
+>>>>>>> 808f66271fdfc8cabe96bbc9ce827752d5806b31
