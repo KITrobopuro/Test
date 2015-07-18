@@ -1,2 +1,6 @@
 mituhiko
+<<<<<<< HEAD
 kouheikunn
+=======
+genta
+>>>>>>> 560362091c5da246b473bad49dce052aede0998f
