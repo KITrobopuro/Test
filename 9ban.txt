@@ -1,2 +1,14 @@
 mituhiko
+<<<<<<< HEAD
 SUISHOW
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+kouheikunn
+=======
+nihongogautemasen
+>>>>>>> b5a72fa69c2ac469adf33fd3995aa03a44214651
+=======
+genta
+>>>>>>> 560362091c5da246b473bad49dce052aede0998f
+>>>>>>> 4e77d787fc075e79a32130994c7a8b3c490b703f
