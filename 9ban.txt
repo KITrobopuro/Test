@@ -1,6 +1,10 @@
 mituhiko
 <<<<<<< HEAD
+<<<<<<< HEAD
 kouheikunn
+=======
+nihongogautemasen
+>>>>>>> b5a72fa69c2ac469adf33fd3995aa03a44214651
 =======
 genta
 >>>>>>> 560362091c5da246b473bad49dce052aede0998f
